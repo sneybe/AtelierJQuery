@@ -1,0 +1,31 @@
+.rouge{
+    background-color: red;
+    
+}
+
+.vert{
+    background-color: green;
+}
+
+.jaune{
+    background-color: yellow;
+    
+}
+
+.style-paire{
+    background-color: blue;
+    
+    
+}
+
+.style-impaire{
+    background-color: white;
+    
+    
+}
+
+.ligne_clic{
+    background-color: orange;
+    font-size: 24px;
+    
+}
